@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "hook de pre-push:"
+echo "$(git ...)"
+
